@@ -7,6 +7,7 @@
 <p align="center">
     <a href="https://github.com/magma/magma/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-BSD3clause-blue.svg" alt="License"></a>
     <a href="https://github.com/magma/magma/releases"><img src="https://img.shields.io/github/release/magma/magma" alt="GitHub Release"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Flucasgonze%2Fmagma?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucasgonze%2Fmagma.svg?type=shield"/></a>
     <a href="https://docs.magmacore.org/docs/next/contributing/contribute_workflow"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PR's Welcome"></a>
     <a href="https://github.com/magma/magma/graphs/contributors"><img src="https://img.shields.io/github/contributors/magma/magma" alt="GitHub contributors"></a>
     <a href="https://github.com/magma/magma/commits/master"><img src="https://img.shields.io/github/last-commit/magma/magma" alt="GitHub last commit"></a>
@@ -22,6 +23,9 @@ Magma is an open-source software platform that gives network operators an open, 
 - Enabling federation between existing MNOs and new infrastructure providers for expanding rural infrastructure
 - Allowing operators who are constrained with licensed spectrum to add capacity and reach by using Wi-Fi and CBRS
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucasgonze%2Fmagma.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flucasgonze%2Fmagma?ref=badge_large)
 
 ## Magma Architecture
 
